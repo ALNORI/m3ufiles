@@ -1,0 +1,34 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ Islamic ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Islamic HD",▁ ▂ ▄ ▅ ▆☆ IslamicHD CHANNELS ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 2 (1024×576),Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 5 (1024×576),Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Undefined",Al Jazeera English,QA | Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="Undefined",Al Rayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="Undefined",Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/IWVgSqc.png" group-title="Undefined",QA | Qatar Television,Qatar Television
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" group-title="General",Qatar TV
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8?checkedby:iptvcat.com
+
+
+
+#EXTINF:0 tvg-id="avi" group-title="CHILDREN",▁▂▃▅▆▇★☀二【«ERITREA»】二☀★▇▆▅▃▂▁
+#EXTINF:0 tvg-id="avi" group-title="CHILDREN",▁▂▃▅▆▇★☀二【«ETHIOPIA»】二☀★▇▆▅▃▂▁
+#EXTINF:0 tvg-id="avi" group-title="CHILDREN",▁▂▃▅▆▇★☀二【«SUDAN»】二☀★▇▆▅▃▂▁
+
+#EXTINF:0 tvg-id="avi" group-title="CHILDREN",▁▂▃▅▆▇★☀二【«SVENSKA»】二☀★▇▆▅▃▂▁
+#EXTINF:-1 tvg-id="" tvg-name="Expressen Nyheter" tvg-language="" tvg-logo="https://img.iptvmate.net/5e933c386eec6b08ec1a85b5.png",Expressen TV
+https://ch.iptvmate.net/5e9368ea7587ee5ce73225b6.m3u8
