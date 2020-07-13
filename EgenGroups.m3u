@@ -8,8 +8,6 @@ https://edge-1192-ch-gv.filmon.com/live/1793.high.stream/playlist.m3u8?checkedby
 #EXTINF:0 tvg-id="" group-title=" Yemen ",▁▂▃▅▆▇★☀二【«  Yemen  »】二☀★▇▆▅▃▂▁
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Yemen",Aden TV
 https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almahrah-tv-ye.png" group-title="Yemen",Al Mahrah
-http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="Yemen",Al Masirah
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="Yemen",Al Masirah Mubacher
@@ -46,22 +44,12 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="Sudan",Africa TV3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15189497461737.png" group-title="Sudan",Al Alamiya
-http://82.212.74.100:8000/live/hls/8950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15592492499912.jpg" group-title="Sudan",Al Alamiya 2
-http://82.212.74.98:8000/live/7815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Sudan",Sudan TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Sudan",Sudan TV
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" group-title=" Saudi Arabia ",▁▂▃▅▆▇★☀二【«  Saudi Arabia  »】二☀★▇▆▅▃▂▁
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" group-title="Saudi Arabia",22 TV
-http://82.212.74.99:8000/live/hls/8117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="Saudi Arabia",Ahl-Alquran TV
-https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg" group-title="Saudi Arabia",AL HOKAIR Group TV
-http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Saudi Arabia",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saudi Arabia",Al Quran Al Kareem (Mecca)
@@ -112,14 +100,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:0 tvg-id="" group-title=" Sport ",▁▂▃▅▆▇★☀二【«  Sport  »】二☀★▇▆▅▃▂▁
-#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="Sport",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
+
 #EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="Qatar",Al Rayyan
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="Qatar",Al Rayyan Al Qadeem
@@ -132,8 +113,6 @@ http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Palestine",Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="Palestine",Al Mahd
-http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Palestine",An-Najah Nbc
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="Palestine",Audeh
@@ -166,14 +145,8 @@ https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title=" Morocco ",▁▂▃▅▆▇★☀二【«  Morocco »】二☀★▇▆▅▃▂▁
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" group-title="Morocco",Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayounex2.png" group-title="Morocco",Al Aoula Laayoune
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayounex2.png" group-title="Morocco",Al Aoula Laayoune
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Al Maghribia ARB" tvg-name="Al Maghribia ARB" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/almaghribiax2.png" group-title="Morocco",Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/almaghribiax2.png" group-title="Morocco",Al Maghribia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" group-title="Sport",Arryadia
