@@ -98,6 +98,7 @@ https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Makkah TV" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Saudi Arabia",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Saudi 1 ARB" tvg-name="Saudi 1 ARB" tvg-language="Arabic" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="Saudi Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 
@@ -138,6 +139,8 @@ http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="Palestine",Audeh
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="Palestine",Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" group-title="Palestine",MusawaChannel
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="Palestine",Palestine Mubasher
