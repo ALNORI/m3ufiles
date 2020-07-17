@@ -275,7 +275,10 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/02.m3u8
 #EXTINF:0 tvg-id="" group-title=" Movies ",▁▂▃▅▆▇★☀二【«  Movies  »】二☀★▇▆▅▃▂▁
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Movies", Ajyal
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Movies", AlfajrTV2 action
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Movies", AlfajrTV1 action
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 
 #EXTINF:0 tvg-id="" group-title=" TURKISH ",▁▂▃▅▆▇★☀二【«  TURKISH  »】二☀★▇▆▅▃▂▁
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" group-title="TURKISH",A TV
